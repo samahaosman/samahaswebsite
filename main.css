@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+h1 { 
+    font-size: 70px;
+    font-family: 'Satisfy', cursive;
+} 
+
+h2 {
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+    font-variant-position: center;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: 'satisfy', cursive;
+    font-variant-position: center;
+}
+p {
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+body { 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+} 
+*{ 
+    margin: 8px;
+    box-sizing: border-box;
+    padding: 25px 25px 25px 25px;
+}
+
+   
+.center {     
+    text-align: center; 
+}
+    
+div {
+    background-color: rgb(207, 106, 185);
+    color: black;
+    padding: 0.1px 0.1px 0.1px 0.1px;   
+    text-align: center;
+    background-size: 10px;
+    
+    }
+
+
+body.home {
+    background: url("secret cakes logo.jpg") no-repeat center center fixed; 
+}
+body.page-one {
+    background: url("pink flower cake.jpg") no-repeat center center fixed; 
+    background-size: cover;
+    background-position: top; 
+}
+
+body.page-two { 
+    background: url("seperated pink cake.jpg") no-repeat center center fixed;
+    background-size: cover; 
+    
+}
+
+body.page-three { 
+    background: url("cream and gold cake.jpg") no-repeat center center fixed;
+    background-position: top;
+
+}
+
+body.page-four { 
+    background: url("blue cake.jpg") no-repeat center center fixed;
+    background-position: top;
+}
+
+body.page-five {
+    background: url("chocolate strawberries.jpg") no-repeat center center fixed;
+    background-size: cover;
+    background-position: top;
+}
+
+body.page-six {
+    background: url("cakesicles.jpg") no-repeat center center fixed;
+    background-size: cover;
+    background-position: top;
+}
+
+body.page-seven {
+    background: url("heart cakesicles.jpg") no-repeat center center fixed;
+    background-position: top;
+}
+
+body.page-eight { 
+    background: url("grey and gold cake.jpg") no-repeat center center fixed;
+    background-position: top;
+}
